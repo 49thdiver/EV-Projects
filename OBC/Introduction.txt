@@ -1,1 +1,4 @@
-
+The Standalone OBC project can out of a need to find fresh batteries for a 2002 Toyota RAV4EV
+The Nissan Leaf battery pack seemed like the obvious donor pack
+The Leaf charger with the Chademo and J1772 capability seemed liek teh simle solution to provide charging in a tide package.
+Eh it was more complectated than expected.
