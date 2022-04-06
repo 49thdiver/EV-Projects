@@ -1,1 +1,7 @@
+Lots to upload here.
+The project is essentially adapating a Nissan Leaf Battery pack to a Factory built 2002 Toyota RAV4 EV.
+The original batteries were NIMH 24 X 12volt modules comprised of 10 1.2 volt cells. Te battery is nominally 12 volts rated at 90 AH. Modifying the pack to take the cells is relatively straight forward.
+Building an arduino due to spoof the Rav4 into thinking it is taking to the original Toyota BMS/ECU is teh challenge. The car has been on and off the road for almost two years since the first conversion. The arduino code and the hardware interface to the toyota ECU is working and in it's 3rd revision. This particular version uses teh original paddle charger, the next one will utilize the OBC charger from the leaf. See the OBC project here. I expect to start posting the RAV4 EV conversion project this year.
+
+March 2022.
 
