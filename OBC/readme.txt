@@ -6,7 +6,8 @@
  I started with arduino UNO's but they are simply too slow to be useful and the CAN libraries are more primitive in my opinion.
  
 Timing is everything, you have to use the interrupt timers to make it work.
- You need to look at the LEAF can data base on the Kvaser system maintained if not developed by DALA. A great resource, if   you want to adjust the charge current you can find the bytes to tweak by studying the data. Amongst other things.
+ You need to look at the LEAF can data base on the Kvaser system maintained and developed by DALA. A great resource, if   you want to adjust the charge current you can find the bytes to tweak by studying the data. Amongst other things.
+ You can find it on github here : https://github.com/dalathegreat/leaf_can_bus_messages/find/master
  The service manuals are available on a Nissan owners Forum, page 32 and 33 in the VC section of the 2014 are what you need. The diagram that you   will want to familiarize your self with is labled F23. Note H.S. in the corner means harness side to reference the connector numbers   and wire colours according to the diagram.
 
  You will also need to identify the 12 volt connection , the ground and the J1772   connections.
