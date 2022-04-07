@@ -14,7 +14,7 @@ RAV4 EV - work completed upload pending documentation.
 
 Kubvan Conversion - Project in progress, dcumentation and upload pending.
 
-
+Check out the wiki for videos
 
 Enjoy
 
