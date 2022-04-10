@@ -12,10 +12,9 @@
 <p>Videos</p>
 <p>Posted on Google rather than youtube to avoid the ads and respect the space 
 on the github severs.</p>
-<p>1- <a href="https://photos.app.goo.gl/E4M1p5wLaGtFn5GN7">The demo</a></p>
-<p>2- <a href="https://photos.app.goo.gl/msHR4DTDRWhSRKyGA">The details</a></p>
-<p>3- <a href="https://photos.app.goo.gl/dPjGQkLpjhnASrPQ8">Early success</a></p>
-<p>4- <a href="https://photos.app.goo.gl/PJJDmGaNfbzPKxy29">Historical debugging</a> 
+
+  <p>A sneak peek at things to come</p>
+<p>1- <a href="https://photos.app.goo.gl/PJJDmGaNfbzPKxy29">Historical debugging</a> 
 for your entertainment.</p>
 
 </body>
